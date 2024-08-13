@@ -24,13 +24,13 @@ button {
     border-radius: 25px;
     cursor: pointer;
     color: white;
-    background-color: #7c4486;
+    background-color: #ba68c8;
     border: none;
     transition: ease-in-out 0.3s;
 }
 
 button:hover {
-    background-color: #ba68c8;
+    background-color: #8e4f99;
 }
 
 .github-link {
@@ -73,7 +73,7 @@ button:hover {
 }
 
 .pro div {
-    background-color: #9030a1;
+    background-color: #802197;
     width: 1000px;
     text-align: center;
     padding: 5% 0;
